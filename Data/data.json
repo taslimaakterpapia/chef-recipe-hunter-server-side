@@ -57,7 +57,7 @@
         "bio":"Jamie Oliver is a British chef.",
         "experience": 15,
         "like":500,
-        "number":1,
+        "number":15,
         "recipe":[
             {
                 "name":"Noodles",
