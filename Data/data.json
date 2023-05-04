@@ -1,0 +1,288 @@
+
+[
+    {
+        "id":1,
+        "chefName":"Vikas Khanna",
+        "img":"https://imgk.timesnownews.com/story/Vikas_Khanna_Bigg_Boss_13.jpg",
+        "bio":"Vikas Khanna is a Indian chef.",
+        "experience": 25,
+        "like":500,
+        "number":10,
+        "recipe":[
+            {
+                "name":"Chai-Infused Emperor’s Green Rice",
+                "ingredients":["Emperor’s green rice","White cloves","Bay leave","Water","Salt"],
+                "steps": [
+                    "Wash the rice in cold water and soak for half an hour in cold water. Set aside for a while.",
+                    "Preheat the oven to 350 Fahrenheit, Melt butter over medium heat.",
+                    "Add bay leaves, cardamom, cloves, ginger, and cinnamon. Stir for two minutes.",
+                    "Add rice and sauté for a few minutes.",
+                    "Add the water, salt, and tea bags. Boil and cover with a kitchen towel and lid."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Masala Honey Cornish Hens",
+                "ingredients":["Cornish hens rinsed","Salt","Lavender powder ground","Garam masala","Soy sauce"],
+                "steps": [
+                    "Preheat oven to 400 degrees Fahrenheit, Season the hens with salt and set aside for ten minutes.",
+                    "Take a bowl and add lemon juice, honey, lavender flowers, soy sauce, and garam masala. Mix well.",
+                    "Marinade the hens, Heat oil and sear the hens, Roast the hens in the oven.",
+                    "Insert the thermometer in the thigh of hens and wait till it reads 165 degrees F.",
+                    "Garnish with lavender sprigs."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mustard Vegetable Curry",
+                "ingredients":["Oil","Red chili powder","Grated garlic and cloves","Onions","Cumin seeds", "Turmeric"],
+                "steps": [
+                    "Steam all the vegetables and keep them aside.",
+                    "To make curry, heat oil in a pan. Add cumin seeds, onion, and garlic. Cook till the onion till they turn golden.",
+                    "Add chili powder and turmeric powder and stir, Add the vegetable stock, coconut milk, and Dijon mustard.",
+                    "Add salt and check for spice levels, Add the steamed vegetables and let the curry cook for five minutes.",
+                    "Serve hot."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+
+    {
+        "id":2,
+        "chefName":"Jamie Oliver",
+        "img":"https://img.jamieoliver.com/home/wp-content/uploads/features-import/2015/09/feature-header8.jpg",
+        "bio":"Jamie Oliver is a British chef.",
+        "experience": 15,
+        "like":500,
+        "number":15,
+        "recipe":[
+            {
+                "name":"Noodles",
+                "ingredients":["steak","garlic","potatoes","onions","chillies", "red peppers", "olive oil"],
+                "steps": [
+                    "Remove and finely dice the fat from the steak.",
+                    "Put it into a non-stick frying pan on a medium-low heat with the unpeeled garlic cloves.",
+                    "Meanwhile, peel the sweet potatoes and chop into 4cm chunks.",
+                    "Cook in boiling salted water for 10 minutes, or until tender, then drain, smash, season and keep warm. ",
+                     "Trim the spring onions, halve and deseed the chillies, and lightly brown on both sides in the steak fat."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mushroom toad-in-the-hole",
+                "ingredients":["eggs","flour","milk","olive oil","onions","garlic"],
+                "steps": [
+                    "Preheat the oven to 200°C/400°F/gas 6. Whisk the eggs, 150g of flour,",
+                    "a pinch of sea salt, the milk and 2 tablespoons of water into a smooth batter, then put aside.",
+                    "Peel the mushrooms, saving the peelings. Place the mushrooms cap side down in a large non-stick roasting tray,",
+                    "drizzle with 1 tablespoon of olive oil and season with salt and black pepper. Roast for 30 minutes.",
+                    "Meanwhile, for the gravy, peel the onions and finely slice with the mushroom peelings."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Cauliflower cheese pasta",
+                "ingredients":["sourdough bread","garlic","olive oil","onion","cheese"],
+                "steps": [
+                    "Tear the bread into a food processor. ",
+                    " Peel and add the garlic, then tear in any nice leaves from your cauliflower.",
+                    "Add ½ a tablespoon of olive oil, blitz into fairly fine crumbs.",
+                    " then tip into a large non-stick frying pan on a medium heat.",
+                    " Cook for 15 minutes, or until golden and crisp, stirring occasionally."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+
+    {
+        "id":3,
+        "chefName":"Sanjeev Kapoor",
+        "img":"https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india1.jpg",
+        "bio":"Sanjeev Kapoor is a Indian chef.",
+        "experience": 25,
+        "like":550,
+        "number":25,
+        "recipe":[
+            {
+                "name":"Chicken Pakora",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place chicken in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Fried Rice",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind","Rice"],
+                "steps": [
+                    "Place beef and rice in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mutton Curry",
+                "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place Mutton in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+
+    {
+        "id":4,
+        "chefName":"Ranveer Brar",
+        "img":"https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india3.jpg",
+        "bio":"Ranveer Brar is a Indian chef.",
+        "experience": 28,
+        "like":600,
+        "number":15,
+        "recipe":[
+            {
+                "name":"Rogan Josh",
+                "ingredients":["Curd","Onion","ginger","Chili","Turmeri powder"],
+                "steps": [
+                    "In a handi, add water as required, Cockscomb.",
+                    " close the lid and boil it for a while.",
+                    "Strain it in a bowl with the help of muslin cloth.",
+                    "and keep it aside for further use."
+                ],
+                "rating":4.5
+            },
+            {
+                "name":"Shahi Paneer Makai",
+                "ingredients":["Ghee","Stick","Bay leaf","Chile","Water","Cashewnut"],
+                "steps": [
+                    "In the same pan or kadai, add prepared gravy, water and cook for 4-5 minutes on medium flame.",
+                    "Once the gravy starts boiling, add prepared tempering, little water and cook.",
+                    "Add salt to taste, paneer, sweet corn and let it simmer for 2-3 minutes.",
+                    "Transfer it to a serving dish."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Paneer Curry",
+                "ingredients":["Paneer","Onion","Soyabin","Chile","oil"],
+                "steps": [
+                    "In a mortar pestle, add green chili, ginger, garlic, few curry leaves and salt to taste.",
+                    "Make a coarse paste, keep it aside for further use.",
+                    "In a bowl, add prepared paste, curd, refined flour, rice flour.",
+                    "Rest it for 4-5 minutes."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+    {
+        "id":5,
+        "chefName":"Anjum Anand",
+        "img":"https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india5.jpg",
+        "bio":"Anjum Anand is a Indian chef.",
+        "experience": 15,
+        "like":580,
+        "number":25,
+        "recipe":[
+            {
+                "name":"Chopped salad with peanuts",
+                "ingredients":["Tomato","Onion","chili","ginger","salt"],
+                "steps": [
+                    "To make the salad, mix together all the ingredients in a bowl.",
+                    "To make the spice mixture, heat the oil in a small pan and add the mustard seeds.",
+                    " Once they begin to splutter, add the curry leaves and remove from the heat. Add the lemon juice and stir.",
+                    "To serve, pour the spice mixture over the salad and stir to coat. Taste and adjust the seasoning if necessary."
+                ],
+                "rating":8
+            },
+            {
+                "name":"Strawberry lassi",
+                "ingredients":["ripe strawberries, "," plain yoghurt","suger","taste","ice cubes"],
+                "steps": [
+                   "Put the strawberries and yoghurt in a blender and blend until frothy and smooth.",
+                    " Taste and add a little sugar, if desired.",
+                    "Pour into serving glasses filled with ice and serve."
+                ],
+                "rating":6
+            },
+            {
+                "name":"Spiced fried okra",
+                "ingredients":["Flour","Salt","mango powder","Chili","okra"],
+                "steps": [
+                    "Slice the okra pieces lengthwise into quarters and toss them in the gram flour.",
+                    "Pour the oil into a large saucepan to a depth of approximately 2.5cm/1in ",
+                    "and heat until a breadcrumb will sizzle gently when placed into the oil.",
+                     "Add the okra to the pan and fry until the okra is crisp and golden-brown, stirring occasionally."
+                    
+                ],
+                "rating":6
+            }
+
+        ]
+    
+    },
+    {
+        "id":6,
+        "chefName":"Hari Nayak",
+        "img":"https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india6.jpg",
+        "bio":"Hari Nayak is a Indian chef.",
+        "experience": 15,
+        "like":400,
+        "number":25,
+        "recipe":[
+            {
+                "name":"Bengali Aloo",
+                "ingredients":["Potatoes","Tomato","Chile","oil", "salt"],
+                "steps": [
+                    " In a large saucepan combine the potatoes with enough cold water to cover them.",
+                    " Bring to a boil over high heat and cook uncovered until tender about 15 to 20 minutes.",
+                    " Drain well and set aside to cool. ",
+                    " Peel the potatoes and cut into ¾-inch (2-cm) dice."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Dal Palak",
+                "ingredients":["Seeds","Onion","coconut milk","Chile","Masala"],
+                "steps": [
+                    "Heat the oil in a large saucepan over medium heat.",
+                    "Add the mustard seeds—they should sizzle upon contact with the hot oil.",
+                    "Add the tomato and cook for another 30 seconds.",
+                    " Add the lentils and water and bring to a boil over medium-high heat."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Baingan ki Chutney",
+                "ingredients":["eggplants","Onion","oil","Chile","Masala"],
+                "steps": [
+                    "Flame-char the whole eggplants on a gas grill or over the open flame of a gas burner.",
+                    " turning constantly until blackened and soft.",
+                    " Alternately, roast the eggplants in a preheated 375°F (190°C) oven on a sheet pan for about 15 to 20 minutes.",
+                    "until completely soft and lightly burnt. "
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    }
+]
