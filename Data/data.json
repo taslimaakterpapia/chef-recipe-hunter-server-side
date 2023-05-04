@@ -6,7 +6,7 @@
         "img":"https://imgk.timesnownews.com/story/Vikas_Khanna_Bigg_Boss_13.jpg",
         "bio":"Vikas Khanna is a Indian chef.",
         "experience": 25,
-        "like":5,
+        "like":500,
         "number":10,
         "recipe":[
             {
@@ -57,7 +57,7 @@
         "bio":"Jamie Oliver is a British chef.",
         "experience": 15,
         "like":500,
-        "number":15,
+        "number":1,
         "recipe":[
             {
                 "name":"Noodles",
